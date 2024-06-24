@@ -23,3 +23,11 @@ The tech stacks used for this project include:
 Check out my GitHub repository for more details and to see the code:
  
 ![shoe price](https://github.com/shalutha1/shoe_price/assets/90474520/e16b26ca-02ac-4e3b-b474-52117975ef7a)
+
+
+
+
+https://github.com/shalutha1/shoe_price/assets/90474520/d4d273f0-2b96-4082-9b4c-5294be965ca2
+
+
+
